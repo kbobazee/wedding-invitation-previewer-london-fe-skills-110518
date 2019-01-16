@@ -30,6 +30,7 @@ body, html {
 h1 {text-align: center;
 font-size: 30px;
 color: white;
+background-color: lightpink;
 }
 
 form {display: inline-block;
@@ -50,7 +51,7 @@ div { text-decoration: underline;
   text-decoration: double;
 }
 
-nav {
+nav { background-color: lightpink;
 text-align: center;
 font-size: 25px;
 margin-right: 60%;

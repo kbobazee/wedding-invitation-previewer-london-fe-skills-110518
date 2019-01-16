@@ -7,7 +7,7 @@ body, html {
   height: 100%;
   display: block;
   font-family: fantasy;
-  border: 3px solid lightgray;
+  border: 3px solid darkgray;
 }
 
 .grid-container {

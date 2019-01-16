@@ -57,7 +57,9 @@ nav {font-family: 'Baskerville';
 text-align: center;
 font-size: 25px;
 margin-right: 70%;
-padding: 20px 20px
+padding: 20px 20px;
+text-decoration: none;
+  text-decoration: double;
 }
 
 #submit {padding: 10px;

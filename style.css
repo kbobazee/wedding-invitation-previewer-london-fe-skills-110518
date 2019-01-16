@@ -38,9 +38,12 @@ font-size: 20;
 form {display: inline-block;
 font-style: oblique;
 padding: 0, 30%, 20px;
-
+width: 20px;
 }
 
+div { text-decoration: underline;
+  text-decoration: double;
+}
 
 nav {font-family: 'Baskerville';
 text-align: center;

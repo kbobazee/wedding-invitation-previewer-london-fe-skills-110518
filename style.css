@@ -34,8 +34,8 @@ body, html {
 
 h1 {text-align: center;
 font-size: 30px;
-color: lightgray;
-font-family: 
+color: white;
+font-family:'Baskerville'; 
 }
 
 form {display: inline-block;

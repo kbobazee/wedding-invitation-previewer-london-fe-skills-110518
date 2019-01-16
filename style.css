@@ -1,15 +1,15 @@
 body, html {
-  background: lightpink;
+  background: white;
   margin: 0 auto;
   padding: 1%;
   color: white;
-  width: 80%;
+  width: 90%;
   height: 100%;
   display: block;
   font-family: fantasy;
 }
 
-.grid-container {
+.grid-container {background: lightpink;
   display: grid;
   grid-template-columns: auto auto;
   background-color: lightpink;

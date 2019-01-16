@@ -6,7 +6,6 @@ body, html {
   width: 90%;
   height: 100%;
   display: block;
-  font-family: 'fantasy';
 }
 
 .grid-container {
@@ -30,6 +29,7 @@ body, html {
 h1 {text-align: center;
 font-size: 30px;
 color: white;
+font-family: 'fantasy';
 }
 
 form {display: inline-block;

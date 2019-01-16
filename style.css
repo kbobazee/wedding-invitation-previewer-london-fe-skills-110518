@@ -34,7 +34,8 @@ body, html {
 
 h1 {text-align: center;
 font-size: 30px;
-color: lightgray
+color: lightgray;
+font-family: 
 }
 
 form {display: inline-block;

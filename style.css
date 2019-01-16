@@ -16,7 +16,7 @@ body, html {
   display: flex;
   width: 20vw;
   height: 20vh;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 

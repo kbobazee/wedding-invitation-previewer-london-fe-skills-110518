@@ -12,12 +12,12 @@ body, html {
   
 }
 
-.grid-container {
-  display: grid;
-  grcolumns: auto;
-  background-color: pink;
-  padding: 10px;
+..flex-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
 }
+
 
 .grid-item {
   background-color: lightpink;

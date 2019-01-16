@@ -14,8 +14,8 @@ body, html {
 
 .flex-container {
   display: flex;
-  width: 100vw;
-  height: 100vh;
+  width: 20vw;
+  height: 20vh;
   flex-direction: row;
 }
 

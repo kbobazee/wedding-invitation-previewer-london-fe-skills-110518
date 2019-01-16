@@ -34,7 +34,6 @@ body, html {
 h1 {text-align: center;
 font-size: 30px;
 color: white;
-font-family:'fantasy'; 
 }
 
 form {display: inline-block;
@@ -52,7 +51,7 @@ div { text-decoration: underline;
   text-decoration: double;
 }
 
-nav {font-family: 'fantasy';
+nav {
 text-align: center;
 font-size: 25px;
 margin-right: 70%;

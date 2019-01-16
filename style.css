@@ -45,7 +45,7 @@ width: 20px;
 
 input {
   border: none;
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid lightgray;
 }
 
 div { text-decoration: underline;

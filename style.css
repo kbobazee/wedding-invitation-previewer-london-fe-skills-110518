@@ -17,6 +17,8 @@ body, html {
   width: 20vw;
   height: 20vh;
   flex-direction: column;
+  background-color: black;
+  
 }
 
 
